@@ -1,1 +1,2 @@
-HEllo Git Example
+Hello Git Example
+Hello World!
